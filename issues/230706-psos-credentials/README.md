@@ -4,7 +4,7 @@
 
 ## Description
 
-Until 19.4 a PSOS call opened multiple database files on the server with the exact same credentials as they were opened on the client. Since version 19.5 this is only the case for the database that initiates the call. All other files that referenced in the script are opened as if there were initially closed. 
+Until 19.4 a PSOS call opened multiple database files on the server with the exact same credentials as they were opened on the client. Since version 19.5 this is only the case for the database that initiates the call. All other files referenced in the script are opened as if there were initially closed. 
 
 There is an [article in the community](https://community.claris.com/en/s/question/0D53w00005rIXYaCAO/psos-credentials-bug-or-change-in-behavior-in-fms-1952), along a few others regarding similar observations or problems.
 
