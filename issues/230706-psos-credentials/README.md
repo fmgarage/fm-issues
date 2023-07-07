@@ -18,7 +18,7 @@ Now run the "collect data" script and the result will be displayed in the json r
 
 You can add a pause the script on the server so you have enough time to check the accounts in the Server Admin Console. 
 
-
+<img src="./assets/FileA.png" alt="FileA" style="zoom:40%;" />
 
 ## About the Test
 
